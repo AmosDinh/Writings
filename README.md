@@ -1,4 +1,4 @@
-#Written Words
+# Written Words
 Using this as a way to write some words.
 
 Today I learned how words are a mirror image of a fragmented world, loosly tying thoughts by threads and strings together to convey,
