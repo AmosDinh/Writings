@@ -9,4 +9,4 @@ The author is recommended to sprinkle in a dose of each, as it confuses both the
 If only someone had revealed the axiomatic definition of words to me earlier.
 As we should know what we do not in order to use it.
 
-I can only offer one thing: You can see this text changing through time and space by looking into the commit history.
+I can only offer one thing: You can see this text changing through time and space by inspecting the commit history.
