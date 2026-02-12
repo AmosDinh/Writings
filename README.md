@@ -7,3 +7,5 @@ The author is not recommended to sprinkle in a dose of each, as it might confuse
 
 Had someone revealed this in an axiomatic way to me some years earlier, I would have come to realize its usefulness in it standing earlier as well. 
 As we should know what we don't in order to use it.
+
+I can only offer one thing: You can see this text changing through time by looking into the commit history.
