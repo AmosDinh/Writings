@@ -5,7 +5,7 @@ which is not at all conclusive. It might be feelings trying to be expressed, oth
 
 The author is recommended to sprinkle in a dose of each, as it confuses both the author and the reader.
 
-If only someone had revealed the axiomatic definition of words to me earlier.
+If only someone had revealed this to me earlier.
 As we should know what we do not in order to use it.
 
 I can only offer one thing: You can see words changing through time and space by inspecting the commit history.
